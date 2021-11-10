@@ -1,4 +1,6 @@
-# Building a Flight Search Form with Bootstrap and the Amadeus API Part 2
+# a Flight Search Form with Amadeus API
+
+# Created /offers endpoint for Flight offers from origin to destination within given timeline by user
 
 ## Run
 
