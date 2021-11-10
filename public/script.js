@@ -111,7 +111,7 @@ const showResults = (results) => {
   var availableFlights = results.length;
   searchResults.insertAdjacentHTML(
     "beforeBegin",
-    `<div id="total-flights">Total Flights:${availableFlights}</div>`
+    `<div id="total-flights">Total Flights:${availableFlights} (All flights with desired day)</div><br/>`
   );
   results.forEach(({ itineraries, price }) => {
     const priceLabel = `${price.total} ${price.currency}`;
