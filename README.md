@@ -1,6 +1,7 @@
-# a Flight Search Form with Amadeus API
+#  Flight Search Form with Amadeus API
 
-# Created /offers endpoint for Flight offers from origin to destination within given timeline by user
+## Created /offers endpoint for Flight offers from origin to destination within given timeline by user
+
 
 ## Run
 
